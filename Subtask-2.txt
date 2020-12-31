@@ -1,5 +1,6 @@
 SUBTASK 2
-
+- S.S
+She is really helpful ready to help me in all times
 - K.T.
 He is the only first year student who has cracked GSoC, and he is always ready to help.
 
