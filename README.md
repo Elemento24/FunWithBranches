@@ -9,15 +9,15 @@ We have divided the Task 2, into 3️⃣ subtasks, and the points will be awarde
 ## Sub-Task 1
 You will find a folder, named as <i>Subtask-1</i> in the <b>main</b> branch of this repository. In that folder, you have to create a text file the  name of which will be your <b>Github Username</b>.  
 In that text file, you have to answer the following things :
-- Your Full Name
-- Your Nick Name (or something, you would like to be known as)
-- Your Hometown & Homestate 😂
-- What are you most excited to learn in the APK Month?
-- What all societies do you want to be a part of during your 4 years of college life?
-- The Course you Hate the Most
-- Github Profile URL
-- Facebook Profile URL
-- Instagram Profile URL
+- RAMAVATH VASANTH NAIK
+- VASANTH
+- HYDERABAD, TELANAGANA
+- ABOUT THINGS IN CC WING
+- THINK ABOUT IT IN COLLEGE BUT MOSTLY IN TECHNICAL SOCIETY
+- AS USUAL LIKE OTHER HATE :)
+- https://github.com/Vasanth-96
+- https://www.facebook.com/vasanth.r.3382
+- https://www.instagram.com/vasanth.096/?hl=en
   
 You will find a sample text file in that folder for your reference. Once you have answered all these ❓, you just have to save the file, and push it to the <b>main</b> branch.
 
