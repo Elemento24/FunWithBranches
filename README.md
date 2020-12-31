@@ -38,7 +38,7 @@ Welcome Guys & Gals, to the branch <b>Subtask-3</b>. Here, you will be completin
 ## Sub-Task 3
 In this branch you will find a text file named <b>Subtask-3.txt</b>. In that file, you have to add the following things :
 - The initials of your favorite Third Year Senior, mind you, only the initials.
->>>>>>> Subtask-3
+
 - 2 reasons why do you like Him or Her
 
 Now while doing this subtask, you will be facing <i>Merge Conflicts</i>, and hence will be asked again & again, to solve merge conflicts, until your PR is merged.  
