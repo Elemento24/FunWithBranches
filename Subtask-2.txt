@@ -1,5 +1,5 @@
 SUBTASK 2
-I have made the changes
+
 - K.T.
 He is the only first year student who has cracked GSoC, and he is always ready to help.
 
@@ -8,16 +8,19 @@ He is a senator and very helpful and kind. He is a very good friend.
 
 A.C-
 He is my tech father and very helpful and friendly.
+
 - K.T.
 He is the only first year student who has cracked GSoC, and he is always ready to help.
 
 - P.S.B.
 He is a fun person to work with, and he has an Intriguing Personality
+
 -B.D-
 He is a senator and very helpful and kind. He is a very good friend.
 
 - H.S.P.
 Whenever you need to intimidate someone, you can always rely on him, and he is always ready to help.
+
 A.C-
 He is my tech father and very helpful and friendly.
 
@@ -26,6 +29,14 @@ He is a must to have, when working in a team and has amazing App Development Ski
 
 - Y.G.
 She has also got amazing App Development Skills, and is a nice person.
+
+-K.K.
+Sir has helped me a lot and is very honest
+He does not keep any secrets and told me honestly all about IIITA.
+
+-N.K
+Mam has given me solutions to lot of problems
+Mam is also very kind and straightforward
 
 - V.M.
 We've got the same initials (Yay!!). He is  always ready to help others and has an amazing personality.
@@ -60,7 +71,6 @@ The way he rosts and flexes are op.
 - V.M.
 He is a kind person and has always helped me
 
-
 - U.K.
 The most chilled out senior I have talked with.I can call him Bhaiya and not sir.
 
@@ -68,4 +78,6 @@ The most chilled out senior I have talked with.I can call him Bhaiya and not sir
 He helped me a lot during FOSS workshop.
 He is very cool.
 
+-Y.M.
+He is helping & Friendly.
 
