@@ -62,7 +62,7 @@ He is a nice person and helped me in getting to know about the college.
 - S.T.
 He has helped me in multiple aspect while getting into college, he connected me with right people when i had problems.
 
-<<<<<<< HEAD
+
 -P.S
 He is my techfather, very kind and friendly, ready to help anytime.
 
@@ -74,21 +74,19 @@ helpful and friendly with amazing designing skills
 
 -A.V
 helpful and friendly with amazing designing skills 
-=======
+
 -S.S.
 I like her dance and she is one female senior to whom i interected the most.
 
 -K.T.
 The way he rosts and flexes are op.
->>>>>>> 4ab7217afde4fb3c73e188b1143d5ad881960ee6
 
 - V.M.
 He is a kind person and has always helped me
 
-<<<<<<< HEAD
 -P.S
 He is my tech father ready to help any time.
-=======
+
 -K.T.
 He helped me a lot during FOSS workshop.
 He is very cool.
@@ -116,4 +114,7 @@ He is a must to have, when working in a team and has amazing App Development Ski
 
 - K.P.
 She is very nice. Has been guiding us all in right direction since we joined the college.
->>>>>>> 4ab7217afde4fb3c73e188b1143d5ad881960ee6
+
+-P.S
+He is my tech father ready to help any time.
+
