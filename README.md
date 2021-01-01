@@ -1,4 +1,6 @@
-# Fun With Branches 😉
+
+ # Fun With Branches 😉
+
 Welcome Guys & Gals to the repository, where you will be completing your Task 2️⃣ of FOSS Workshop.
 <br>
 <br>
@@ -24,7 +26,11 @@ You will find a sample text file in that folder for your reference. Once you hav
 <hr>
 
 ## Format of Commit Message
+<<<<<<< HEAD
 ```<Github_username> completed Subtask-1```  
+=======
+```<Github_username>  ```  
+>>>>>>> Subtask-2
 Make sure to use the above format only, while commiting your changes for Subtask-1.
 
 <hr>
