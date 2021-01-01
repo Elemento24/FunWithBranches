@@ -82,14 +82,11 @@ The way he rosts and flexes are op.
 
 - V.M.
 He is a kind person and has always helped me, and he cool.
+He is a kind person and has always helped me
 
 -K.T.
 He helped me a lot during FOSS workshop.
-He is very cool
-
--K.T.
-He is the only first year student who cracked GSoC.
-He is very cool and Helpful
+He is very cool.
 
 -Y.M.
 He is helping & Friendly.
@@ -170,10 +167,6 @@ He is supportive.
 -V.M 
 Extremely Helpful
 
--K.T.
-He is the only first year student who cracked GSoC.
-He seems to be very cool and helpful.
-
 -K.K.
 I know him from my school days and he is very helpful and everytime i asked him he helps me.
 
@@ -189,3 +182,4 @@ He's very supportive, helped me out as if I wasn't a stranger.
 
 -K.T.
  He is a very kind and talented person. Also very Helpful.
+
