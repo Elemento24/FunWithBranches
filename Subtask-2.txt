@@ -97,9 +97,11 @@ He is very cool.
 
 
 
+
 -K.T.
 He is the only first year student who cracked GSoC.
 He is very cool and Helpful
+
 
 -Y.M.
 He is helping & Friendly.
@@ -182,6 +184,7 @@ Extremely Helpful
 
 
 
+
 -K.T.
 He is the only first year student who cracked GSoC.
 He seems to be very cool and helpful.
@@ -196,5 +199,3 @@ I joined IIIT A because I know him . He is from my homestate . He always solves 
 - V.M.
 He is a very helpful, cool and amiable guy.
 He has immense patience while solving the doubts of the freshers.
-
-
