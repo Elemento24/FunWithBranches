@@ -1,8 +1,5 @@
 SUBTASK 2
 
-- B.B.
-He gives the best life advice to us juniors. His ideologies are really intresting.
-
 - K.T.
 He is the only first year student who has cracked GSoC, and he is always ready to help.
 
@@ -32,6 +29,9 @@ He is a must to have, when working in a team and has amazing App Development Ski
 
 - Y.G.
 She has also got amazing App Development Skills, and is a nice person.
+
+- B.B.
+He gives the best life advice to us juniors. His ideologies are really intresting.
 
 -N.R.
 He hlep me in my problems and he is really good in giving advice.
@@ -172,4 +172,3 @@ I know him from my school days and he is very helpful and everytime i asked him 
 
 -Y.K.
 I joined IIIT A because I know him . He is from my homestate . He always solves my doubts and guides me.
-
