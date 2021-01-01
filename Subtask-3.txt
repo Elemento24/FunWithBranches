@@ -56,10 +56,6 @@ He is really helpful and is such a good teacher.
 -M.S.G
 He guided me the most at times when I needed it. HE gave me the starting platform to learn WebD
 
-
-- R.H.
-He is a very calm and good teacher.
-
 -P.A.
 Really helpful pro at competitive coding.
 
@@ -103,4 +99,11 @@ From an ECE student to FOSS wing coordinator. An inspiration!!
 
 - G.C.
 He is helpful, kind , Humble and talented.
+
+
+- P.A.
+Met him in a workshop. He looked very calm, composed,disciplined and confident guy
+
+- R.H.
+He is a very calm and good teacher.
 
