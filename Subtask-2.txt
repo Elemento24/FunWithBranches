@@ -30,6 +30,7 @@ He is a must to have, when working in a team and has amazing App Development Ski
 - Y.G.
 She has also got amazing App Development Skills, and is a nice person.
 
+<<<<<<< HEAD
 -K.K.
 Sir has helped me a lot and is very honest
 He does not keep any secrets and told me honestly all about IIITA.
@@ -80,4 +81,7 @@ He has cracked GSOC and is very helpful and calm person.
 
 -Y.M.
 He is helping & Friendly.
+
+- V.M.
+he is a very good teacher and always ready to help.
 
