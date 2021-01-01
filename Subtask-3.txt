@@ -1,10 +1,5 @@
 SUBTASK 3
 
-- R.H.
-He is very good in his field and very helpful and humble.
-
-
-
 - G.C.
 He is really really a fun person to work under, and will always adjust to your needs, in case you are busy with something
 
@@ -99,8 +94,11 @@ From an ECE student to FOSS wing coordinator. An inspiration!!
 - G.C.
 He is helpful, kind , Humble and talented.
 
+
 - P.A.
 Met him in a workshop. He looked very calm, composed,disciplined and confident guy
-
-PR Conflicts resolved
-
+Subtask2<<<
+- R.H.
+He is very good in his field and very helpful and humble.
+>>>>>>
+PR issues resolved.
