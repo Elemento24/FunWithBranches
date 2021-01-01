@@ -1,5 +1,5 @@
 SUBTASK 2
-I have made the changes
+
 - K.T.
 He is the only first year student who has cracked GSoC, and he is always ready to help.
 
@@ -8,16 +8,19 @@ He is a senator and very helpful and kind. He is a very good friend.
 
 A.C-
 He is my tech father and very helpful and friendly.
+
 - K.T.
 He is the only first year student who has cracked GSoC, and he is always ready to help.
 
 - P.S.B.
 He is a fun person to work with, and he has an Intriguing Personality
+
 -B.D-
 He is a senator and very helpful and kind. He is a very good friend.
 
 - H.S.P.
 Whenever you need to intimidate someone, you can always rely on him, and he is always ready to help.
+
 A.C-
 He is my tech father and very helpful and friendly.
 
@@ -27,7 +30,18 @@ He is a must to have, when working in a team and has amazing App Development Ski
 - Y.G.
 She has also got amazing App Development Skills, and is a nice person.
 
+-K.K.
+Sir has helped me a lot and is very honest
+He does not keep any secrets and told me honestly all about IIITA.
+
+-N.K
+Mam has given me solutions to lot of problems
+Mam is also very kind and straightforward
+
 - V.M.
+We've got the same initials (Yay!!). He is  always ready to help others and has an amazing personality.
+
+-V.M.
 Best teacher and jolly
 
 - K.T.
@@ -48,6 +62,7 @@ He is a nice person and helped me in getting to know about the college.
 - S.T.
 He has helped me in multiple aspect while getting into college, he connected me with right people when i had problems.
 
+<<<<<<< HEAD
 -P.S
 He is my techfather, very kind and friendly, ready to help anytime.
 
@@ -59,9 +74,46 @@ helpful and friendly with amazing designing skills
 
 -A.V
 helpful and friendly with amazing designing skills 
+=======
+-S.S.
+I like her dance and she is one female senior to whom i interected the most.
+
+-K.T.
+The way he rosts and flexes are op.
+>>>>>>> 4ab7217afde4fb3c73e188b1143d5ad881960ee6
 
 - V.M.
 He is a kind person and has always helped me
 
+<<<<<<< HEAD
 -P.S
 He is my tech father ready to help any time.
+=======
+-K.T.
+He helped me a lot during FOSS workshop.
+He is very cool.
+
+-K.T.
+He has cracked GSOC and is very helpful and calm person.
+
+-Y.M.
+He is helping & Friendly.
+
+- S.S
+She is really helpful ready to help me in all times
+
+- V.M.
+he is a very good teacher and always ready to help.
+
+-V.M.
+Ready to help and solve doubts irrespective of time.
+
+- U.K.
+The most chilled out senior I have talked with.I can call him Bhaiya and not sir.
+
+- P.S.
+He is a must to have, when working in a team and has amazing App Development Skills
+
+- K.P.
+She is very nice. Has been guiding us all in right direction since we joined the college.
+>>>>>>> 4ab7217afde4fb3c73e188b1143d5ad881960ee6
