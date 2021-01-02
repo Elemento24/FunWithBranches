@@ -27,9 +27,6 @@ Whenever you need to intimidate someone, you can always rely on him, and he is a
 A.C-
 He is my tech father and very helpful and friendly.
 
-S.T-
-He is my tech father.
-
 - P.S.
 He is a must to have, when working in a team and has amazing App Development Skills
 
@@ -179,3 +176,7 @@ I joined IIIT A because I know him . He is from my homestate . He always solves 
 - V.M.
 He is a very helpful, cool and amiable guy.
 He has immense patience while solving the doubts of the freshers.
+
+S.T-
+He is my tech father.
+
