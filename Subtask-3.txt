@@ -32,6 +32,9 @@ He is really helpful,cool and funny.
 
 Subtask-3
 
+-E.
+The most cool and patient senior i ever met.
+
 -R.H.
 He is really helpful and is such a good teacher.
 
@@ -72,9 +75,11 @@ He is very nice and has been helping since the beginning of counselling even bef
 -R.H.
 Very helpful and very cool
 
+-R.H.
+Very kind, reachout to help anytime, active. He is a very good teacher. He is a cleared Gsoc
+
 - R.H.
 He will never turn you down, whenever you approach him for any kind of help, and off course, fun to work under.
-
 He is a very friendly person. He will be ready to help everyone.
 
 - R.H.
@@ -149,13 +154,22 @@ He is eager to share his expertise instead of boasting about the same.
 He has been really great teacher and very helpful.
 
 - R.H.
+He is very approachable and always ready to help. He is a nice per
 He is very approachable and always ready to help. He is a nice person.
+
+- R.H
+He is very helpful and calmly explains a doubt.
+He is friendly and humble.
 
 -R.H 
  He is a awsome teacher and he likes helping irrespective of what you are in need of if possible.
 
 - R.H.
 He's helping all freshers with resources on his git repo, and he explains things REALLY well.
+
+- R.H. 
+He does social work ( FOSS workshop co-ordination) with ease.
+He is a very calm and good teacher.
 
 -R.H.
 He is very helping .
@@ -173,6 +187,8 @@ Very helpful and always ready to share his knowledge and help us.
 - R.H.
 He is hardworking.
 
+-R.H
+I like him cause he is Inspirational and a gentleman.
 
 - P.A 
 He is a great Teacher and also a helpful person.
@@ -187,8 +203,7 @@ He's a very kind and patient teacher.Explains things very simply and clearly.
 He is very patient in explaining even if we ask any silly doubts and he is very helpful.
 
 -R.H.
-He is good tutor, explains well and overall a wonderful person
-
+He is good tutor, explains well and ove
 - R.H.
 He will never turn you down, whenever you approach him for any kind of help, and off course, fun to work under.
 
@@ -196,10 +211,10 @@ He will never turn you down, whenever you approach him for any kind of help, and
 He is very cool and an amazing teacher!
 
 - G.C
+HE is a good person and helpful
 
 -R.H.
 He is really helpful and wonderful guy
-HE is a good person and helpful
 
 -R.H.
 He is a Great teacher.
@@ -210,5 +225,31 @@ He is really helpful and wonderful guy
 -R.H.
 He is really inspring, helpful and explains concepts very clearly.
 
+-R.H
+He is an excellent teacher and very kind and helpfull.
+
+-P.S
+He's helped me with all my doubts, academic and otherwise, and has always advised me well.
+
+-R.H.
+He is very cool and a good tutor.
+
+-S.T.
+HE IS MY TECH FATHER.
+
+- A.S
+He has a very good communication skill ,he always guide us to the correct path.
+
+-S.J
+I talked to him ones and i dont have a tech father so he offered to be mine even when he is in third year.
+
+M.B.
+She is very helpful and she was the first person i talked to from the college. 
+She guided me really well.
+
+-R.H.
+His teaching style is great and he helps everyone.
+
 - S.M.
 She is kind, considerate and really helpfull.
+
