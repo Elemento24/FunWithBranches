@@ -30,8 +30,6 @@ He is a nice person and easy to approach.
 - K.C.
 He is really helpful,cool and funny.
 
-Subtask-3
-
 -E.
 The most cool and patient senior i ever met.
 
@@ -133,6 +131,10 @@ Met him in a workshop. He looked very calm, composed,disciplined and confident g
 - R.H.
 He is a very calm and good teacher.
 
+-P.S.
+He is very gentle and really a helpful person.
+And I want to be successful like him but little early.
+
 - R.H
 Awesome
 
@@ -166,6 +168,9 @@ He is friendly and humble.
 
 - R.H.
 He's helping all freshers with resources on his git repo, and he explains things REALLY well.
+
+-R.R.
+Is my tech parent and he is awesome..!
 
 - R.H. 
 He does social work ( FOSS workshop co-ordination) with ease.
@@ -260,3 +265,8 @@ His teaching style is great and he helps everyone.
 She is kind, considerate and really helpfull.
 
 
+-P.A.
+He taught CC very well and was very patient.
+
+-R.H.
+He is very supportive and helps alot regarding the FOSS wing and explains
