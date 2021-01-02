@@ -29,7 +29,6 @@ He is a nice person and easy to approach.
 
 - K.C.
 He is really helpful,cool and funny.
-Subtask-3
 
 -E.
 The most cool and patient senior i ever met.
@@ -74,9 +73,11 @@ He is very nice and has been helping since the beginning of counselling even bef
 -R.H.
 Very helpful and very cool
 
+-R.H.
+Very kind, reachout to help anytime, active. He is a very good teacher. He is a cleared Gsoc
+
 - R.H.
 He will never turn you down, whenever you approach him for any kind of help, and off course, fun to work under.
-
 He is a very friendly person. He will be ready to help everyone.
 
 - R.H.
@@ -130,6 +131,10 @@ Met him in a workshop. He looked very calm, composed,disciplined and confident g
 - R.H.
 He is a very calm and good teacher.
 
+-P.S.
+He is very gentle and really a helpful person.
+And I want to be successful like him but little early.
+
 - R.H
 Awesome
 
@@ -151,14 +156,15 @@ He is eager to share his expertise instead of boasting about the same.
 He has been really great teacher and very helpful.
 
 - R.H.
-
 He is very approachable and always ready to help. He is a nice per
-
 He is very approachable and always ready to help. He is a nice person.
-
 
 -R.H.
 He is very inspiring and always help .
+
+- R.H
+He is very helpful and calmly explains a doubt.
+He is friendly and humble.
 
 -R.H 
  He is a awsome teacher and he likes helping irrespective of what you are in need of if possible.
@@ -166,6 +172,13 @@ He is very inspiring and always help .
 
 - R.H.
 He's helping all freshers with resources on his git repo, and he explains things REALLY well.
+
+-R.R.
+Is my tech parent and he is awesome..!
+
+- R.H. 
+He does social work ( FOSS workshop co-ordination) with ease.
+He is a very calm and good teacher.
 
 -R.H.
 He is very helping .
@@ -182,6 +195,10 @@ Very helpful and always ready to share his knowledge and help us.
 
 - R.H.
 He is hardworking
+He is a great teacher. He is really polite and helpful.
+
+-A.J.
+Saw his talk on MLH fellowship and he seemed like a really sorted guy
 
 He is hardworking.
 
@@ -222,4 +239,48 @@ He is really helpful and wonderful guy
 
 -R.H.
 He is really inspring, helpful and explains concepts very clearly.
+
+-R.H
+He is an excellent teacher and very kind and helpfull.
+
+-P.S
+He's helped me with all my doubts, academic and otherwise, and has always advised me well.
+
+-R.H.
+He is very cool and a good tutor.
+
+-S.T.
+HE IS MY TECH FATHER.
+
+- A.S
+He has a very good communication skill ,he always guide us to the correct path.
+
+-S.J
+I talked to him ones and i dont have a tech father so he offered to be mine even when he is in third year.
+
+-M.B.
+She is very helpful and she was the first person i talked to from the college. 
+She guided me really well.
+
+-R.H.
+His teaching style is great and he helps everyone.
+
+- S.M.
+She is kind, considerate and really helpfull.
+
+-P.A.
+He taught CC very well and was very patient.
+
+-R.H.
+He is very supportive and helps alot regarding the FOSS wing and explains well.
+
+-R.H.
+He is very supportive, cool, clear all doubts and helps a lot. 
+
+-R.H
+He is a great guy and is very helpful.
+he is very supportive.
+
+
+
 
