@@ -91,6 +91,9 @@ He is a kind person and has always helped me
 He helped me a lot during FOSS workshop.
 He is very cool.
 
+-P.G
+He is a nice person and helpful.
+
 -Y.M.
 He is helping & Friendly.
 
@@ -276,3 +279,4 @@ He is extremely helpful and cooperating
 -K.K.
 He is my tech parent and he taught me LAL.(Quiz me LOL hogya tho)
 He is very kind and very sweet.
+>>>>>>> 23fd2b40c132622acb1e4f9b26840c74ce7c6d7b
