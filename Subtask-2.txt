@@ -197,11 +197,11 @@ He has immense patience while solving the doubts of the freshers.
 - S.
 He is extremely helpful and cooperating.
 
+
+-V.M.
+He was very helpful during FOSS workshop and cleared my doubts.
+
 -E.M.
 He helped me a lot during FOSS workshop.
 He has immense patience while solving the doubts of the freshers.
 
-
--V.M.
-He was very helpful during FOSS workshop and cleared my doubts.
->>>>>>> 63870cec1b55f2f0c617a1ed68a21f4fb64bcf82
