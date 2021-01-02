@@ -21,3 +21,7 @@ Make sure to use the above format only, while commiting your changes for Subtask
 
 ## What to do after your PR is merged?
 Once your PR is merged, give yourself another pat on your back, for completing Subtask-2, and proceed to the branch <b>Subtask-3</b>, for further instructions.
+
+S.P
+because he is more interacting in nature.
+he is good in coding.
