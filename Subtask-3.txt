@@ -15,7 +15,7 @@ He will always help you irrespective of what you are in need of, and in case, he
 - S.M.
 She is a mixture of all the possible traits that exist in this world, a little funny, a little strict (rarely) and is indeed very cool.
 
- Subtask-3
+
 
 
 -G.C.
@@ -96,6 +96,9 @@ He is a really helpful person, easily approchable and from the same city :p
 -R.H.
 Very generous and humble person.Always ready to help.
 
+-R.H.
+He is cool, and generous.
+
 - R.H.
 From an ECE student to FOSS wing coordinator. An inspiration!!
 
@@ -121,9 +124,17 @@ He is a very calm and good teacher.
 He does social work ( FOSS workshop co-ordination) with ease.
 He is eager to share his expertise instead of boasting about the same.
 
+-R.H.
+He has been really great teacher and very helpful.
+
 - R.H.
 He is very approachable and always ready to help. He is a nice person.
 
 - R.H.
 He's helping all freshers with resources on his git repo, and he explains things REALLY well.
+
+
+- R.H.
+He is hardworking.
+
 
