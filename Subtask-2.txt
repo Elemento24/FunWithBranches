@@ -180,11 +180,10 @@ I joined IIIT A because I know him . He is from my homestate . He always solves 
 He is a very helpful, cool and amiable guy.
 He has immense patience while solving the doubts of the freshers.
 
-<<<<<<< HEAD
 - R.R
 He is my tech father and he awsome..! 
-=======
+
 - S.
 He is extremely helpful and cooperating.
 
->>>>>>> d1823448ad3b0dd171ccb47279ee5950da7f327d
+
