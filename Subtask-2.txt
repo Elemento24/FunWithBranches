@@ -370,11 +370,9 @@ Encourages and advices me
 -c.s
 he is very kind and helpful.
 
-<<<<<<< HEAD
 - R.A
 he is kind and supportive
 always ready for any help
-=======
+
 -S.B
 he is an ideal senior.
->>>>>>> d574ec0cb00fb1d29c391c9a8b20b576ad85a2a5
