@@ -391,6 +391,10 @@ always ready for any help
 -S.B
 he is an ideal senior.
 
+-K.T.
+He helped me a lot during FOSS workshop.
+He is very cool.
+
 -C.S.
 He is very helping.
 
@@ -433,3 +437,4 @@ He is always there on Discord VC to help us.
 
 -K.N.
 He is the most chill and cool senior i have seen till now
+
