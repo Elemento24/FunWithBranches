@@ -260,17 +260,10 @@ Super helpful and super fun! Haven't come across a cooler senior.
 - S.
 He is extremely helpful and cooperating.
 
--K.T
-He had explained the concepts very clearly the earlier day and is quite good in his stuff.
-
--G.S.
-He has helped me and guided me in course subjects and has a cool personality in addition.
 
 -V.M.
 He was very helpful during FOSS workshop and cleared my doubts.
 
--H.S.P.
-I see him around on many Orientations and he seems nice
 
 - A.R.
 He's very supportive, helped me out as if I wasn't a stranger.
@@ -294,6 +287,7 @@ He helps us patiently and also my source of inspiration.
 -E.M.
 He helped me a lot during FOSS workshop.
 He has immense patience while solving the doubts of the freshers.
+
 
 - K.T.
 He is simply fab and genius
@@ -497,3 +491,15 @@ He is very nice and supportive and always helps me
 
 -R.M.
 Always guides what to study ,how to study and which subject to ignonre and how.
+
+-K.T
+He had explained the concepts very clearly the earlier day and is quite good in his stuff.
+
+-G.S.
+He has helped me and guided me in course subjects and has a cool personality in addition.
+
+-H.S.P.
+I see him around on many Orientations and he seems nice
+
+- K.T.
+He helps us patiently and also my source of inspiration.
